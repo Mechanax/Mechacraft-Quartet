@@ -1,2 +1,2 @@
-# Mechacraft-Quartet
-Changelog repository for the Mechacraft Quartet Modpack
+# Onyx
+Changelog repository for the Onyx Modpack
